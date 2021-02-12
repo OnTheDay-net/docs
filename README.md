@@ -1,1 +1,3 @@
-# OnTheDay.net docs and issue tracker
+# OnTheDay.net
+
+## Documentation and issue tracker
