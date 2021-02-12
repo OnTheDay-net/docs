@@ -1,1 +1,1 @@
-# ontheday.net
+# OnTheDay.net docs and issue tracker
