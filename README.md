@@ -1,3 +1,1 @@
-# OnTheDay.net
-
-## Documentation and issue tracker
+## repo hosting OnTheDay.net documentation and issue tracker
