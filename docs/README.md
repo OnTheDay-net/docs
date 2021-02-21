@@ -1,0 +1,3 @@
+## Documentation Stub
+
+This folder will contain the source for GitHub pages...
