@@ -10,6 +10,9 @@ This repo will host the source for our documentation, formatted and hosted on Gi
 
 Bug reports and feature requests should be made in the "Issues" section of this repo.
 
-Ride safe!\
+Ride safe!\``
 -- OnTheDay.net
 
+### Useful links
+- The application: [OnTheDay.net](https://www.ontheday.net)
+- [OnTheDay.net documentation](https://github.com/OnTheDay-net/docs)
