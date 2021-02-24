@@ -1,4 +1,4 @@
-# Documentation & Issue Tracker for OnTheDay.net
+# Documentation for OnTheDay.net
 
 OnTheDay.net attempts to be as intuitive as possible, but fuller documentation can always help.
 
