@@ -3,3 +3,6 @@ source "https://rubygems.org" # source "https://gems.ruby-china.com"
 gemspec
 
 gem "github-pages", group: :jekyll_plugins
+
+# webrick is needed for ruby 3 (major version bump for latest version available on macOS using brew)
+gem "webrick", "~> 1.7"
