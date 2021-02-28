@@ -6,3 +6,5 @@ gem "github-pages", group: :jekyll_plugins
 
 # webrick is needed for ruby 3 (major version bump for latest version available on macOS using brew)
 gem "webrick", "~> 1.7"
+
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
