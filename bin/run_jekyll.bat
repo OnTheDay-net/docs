@@ -2,5 +2,8 @@
 :: ^ is the line continuation character...
 
 bundle && ^
-bundle exec jekyll serve --incremental
+bundle exec jekyll serve
+
+:: bundle && ^
+:: bundle exec jekyll serve --incremental
 
